@@ -1,5 +1,7 @@
 # OmniSight v2
 
+🚀 **Live Deployment (Frontend):** [https://omnisight-swart.vercel.app](https://omnisight-swart.vercel.app)
+
 React 19 / Vite workbench implementing the provided mission-control design, Embla continuous task rail, file upload, statistics, anomaly screening, and Plotly 2D/3D visualization. Desktop fills the viewport; below 900px the workspace scrolls. Keyboard focus, native modal dialogs, and reduced-motion preferences are supported.
 
 ## Run the frontend
